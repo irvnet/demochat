@@ -62,6 +62,7 @@ the documentation, [please open a new issue][new-issue].
 
 Please read through our [contributing guidelines][contributing]. Included are
 directions for opening issues, coding standards, and notes on development.
+WWWWW
 
 Editor preferences are available in the [editor config][editorconfig] for easy
 use in common text editors. Read more and download plugins at
